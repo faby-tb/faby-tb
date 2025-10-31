@@ -2,7 +2,7 @@
 
 💡 **Passionate about technology, design, and building intelligent digital solutions.**  
 
-I'm a versatile developer with a strong foundation in **Python**, **AI**, and **full-stack development**. My focus is on creating clean, efficient, and secure applications — combining technical precision with creative design thinking.  
+I'm a versatile developer with a strong foundation in **Python**, **AI**, and **full-stack development**. My focus is on creating clean, efficient, and secure applications combining technical precision with creative design thinking.  
 
 ---
 
