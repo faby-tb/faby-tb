@@ -39,9 +39,8 @@ I'm a versatile developer with a strong foundation in **Python**, **AI**, and **
 ---
 
 ### 📫 Let's Connect  
-💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-📧 **fabian.torres@email.com**  
-🌐 [Portfolio](https://yourwebsite.com)
+💼 [LinkedIn](https://www.linkedin.com/in/toresu/)  
+📧 **fabian.torresbenavides@gmail.com**  
 
 ---
 
